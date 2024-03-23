@@ -1,0 +1,4 @@
+Vamos criar um servidor que vai ficar rodando 100 do tempo e 
+esse servidor vai receber uma imagem que vai armazenar em uma determinada pasta.
+O cliente vai ser um arquivo python que quando vc roda esse arquivo,
+ele vai enviar uma determinada imagem para o servidor.
